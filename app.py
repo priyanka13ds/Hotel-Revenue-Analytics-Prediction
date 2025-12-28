@@ -40,6 +40,7 @@ st.caption("Data-driven insights for pricing optimization and revenue forecastin
 
 df = pd.read_csv("Hotel_bookings_MLdata.csv")
 
+
 # Create Room_type from encoded columns
 df["Room_type"] = (
     df[["Room_type_Executive", "Room_type_Standard", "Room_type_Suite"]]
@@ -52,9 +53,9 @@ df["Room_type"] = (
 # 5️⃣ TABS (UPGRADE 1)
 # =========================================================
 tab1, tab2, tab3 = st.tabs([
-    "📊 Executive Overview",
-    "📈 Revenue & Demand Insights",
-    "🤖 Revenue Forecasting"
+    "📊 ## Executive Overview",
+    "📈 ## Revenue & Demand Insights",
+    "🤖 ## Revenue Forecasting"
 ])
 
 # =========================================================
@@ -266,7 +267,7 @@ with tab3:
     # =====================================================
     @st.cache_resource
     def load_model():
-        return joblib.load("revenue_model.pkl")
+        return joblib.load("revenue_model_compressed.pkl")
 
     model = load_model()
 
