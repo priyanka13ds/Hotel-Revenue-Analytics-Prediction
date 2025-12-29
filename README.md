@@ -78,7 +78,7 @@ The project follows a **real-world data science workflow**, from data preparatio
 
 ---
 
-### 7️⃣ Interactive Streamlit Dashboard 🚀
+### 7️⃣ Interactive Streamlit Dashboard 
 Developed a **portfolio-ready Streamlit dashboard** featuring:
 
 #### 🔹 Executive Overview
