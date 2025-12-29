@@ -53,9 +53,9 @@ df["Room_type"] = (
 # 5️⃣ TABS (UPGRADE 1)
 # =========================================================
 tab1, tab2, tab3 = st.tabs([
-    "##📊 Executive Overview",
-    "##📈 Revenue & Demand Insights",
-    "##🤖 Revenue Forecasting"
+    "📊 Executive Overview",
+    "📈 Revenue & Demand Insights",
+    "🤖 Revenue Forecasting"
 ])
 
 # =========================================================
