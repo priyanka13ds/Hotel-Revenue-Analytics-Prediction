@@ -1,6 +1,6 @@
-# 🏨 Hotel Revenue Analytics & Forecasting Dashboard
+#  Hotel Revenue Analytics & Forecasting Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 This project delivers an **end-to-end data science solution** for analyzing hotel booking data and predicting revenue using machine learning.  
 It combines **data analysis, predictive modeling, and interactive visualization** to support **data-driven pricing and revenue optimization decisions**.
 
@@ -8,7 +8,7 @@ The project follows a **real-world data science workflow**, from data preparatio
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 - Identify **key drivers of hotel revenue**
 - Analyze **room demand vs revenue contribution**
 - Understand **seasonal and booking behavior trends**
@@ -17,7 +17,7 @@ The project follows a **real-world data science workflow**, from data preparatio
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ### 1️⃣ Data Generation
 - Simulated hotel booking data to reflect real-world booking patterns
@@ -105,7 +105,7 @@ Developed a **portfolio-ready Streamlit dashboard** featuring:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - **Programming Language:** Python  
 - **Data Analysis:** Pandas, NumPy  
 - **Visualization:** Matplotlib, Seaborn, Altair  
@@ -116,7 +116,7 @@ Developed a **portfolio-ready Streamlit dashboard** featuring:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 - **Stay duration** is the strongest driver of revenue  
 - **Dynamic pricing per day** has a greater impact than base room price alone  
 - Premium room categories (Executive, Suite) contribute higher revenue but lower demand  
@@ -125,7 +125,7 @@ Developed a **portfolio-ready Streamlit dashboard** featuring:
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 - The Streamlit dashboard is deployed on **Streamlit Community Cloud**
 - Provides a **public, shareable URL** suitable for resumes and portfolios
 
@@ -133,7 +133,7 @@ Developed a **portfolio-ready Streamlit dashboard** featuring:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 - Integrate real-world hotel booking datasets  
 - Perform hyperparameter tuning for improved model accuracy  
 - Add advanced forecasting techniques  
@@ -142,7 +142,7 @@ Developed a **portfolio-ready Streamlit dashboard** featuring:
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Priyanka Pandiyan**  
 *Data Scientist | NLP & Generative AI Enthusiast*
 
